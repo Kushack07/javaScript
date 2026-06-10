@@ -1,0 +1,24 @@
+const user ={
+    name: "Kush",
+    age: 20 ,
+    email:"Kush18092004@gmail.com",
+    amount :90
+}
+
+//create a new key value 
+
+user.adhar =21030;
+console.log(user);
+
+//update  the value inside the obj 
+user.age = 29; 
+console.log(user)
+
+const customer ={
+    name  : "Kush",
+    age :21 ,
+    email : "kush18092004@gmail.com"
+    amount : 32000 
+}
+
+console.log(customer)
