@@ -1,0 +1,15 @@
+const num = [10,20,7,101,,23,78,9]
+// if resultg is negative 
+nums.sort(a,b) => a-b;
+
+if(res is -ve){
+    a come before b  
+}
+else{
+    b  come before a 
+}
+
+const arr =[10,"Kush","IT",90,"Luv",null,age:20];
+arr.sort();
+//hur ek ko string mein convert kar dunga ,uske bad sort krunga 
+console.log(arr);
