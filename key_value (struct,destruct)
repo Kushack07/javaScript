@@ -1,0 +1,28 @@
+const customer = {
+    name : "rohit",
+    age : 10,  
+    value : 70 ,
+    city : "kotdwar",
+    arr  :[10,20,30],
+    address:{
+        pincode:246123
+    }
+}
+
+// create the copy 
+const customer2 = {...customer}; 
+customer2.name = "Mohan";
+console.log(customer2);
+
+//function 
+objective.key
+spices 
+for of loop 
+for in loop 
+
+
+Array : Array ko value print 
+object create karo,
+object create ko print 
+
+
