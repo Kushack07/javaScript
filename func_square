@@ -1,0 +1,18 @@
+// when you have only one parameter ,no need to use()
+//backend : normal Fucntion 
+
+// Code : Readabale:   
+const square = (num) => num*num;
+
+const user =() =>{
+    return{
+        name:"Rohit",
+        age :20 
+    }
+}
+
+console.log(user());
+
+}
+
+
