@@ -1,0 +1,5 @@
+const now = Date.now()
+//date represetation 
+const myDate= new Date(2026, 8, 4,6,20,11,125)
+//what is function 
+//why do we neeeded it 
