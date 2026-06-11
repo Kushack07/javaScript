@@ -1,0 +1,28 @@
+(function hello(){
+    console.log("hello ji");
+
+})();
+
+
+
+// call back function 
+function greet(){
+    console.log("Hello meet");
+}
+
+function meet(callback){
+    console.log("Hello Meet");
+    Callback();
+}
+
+function meet(){
+    console.log("Hello Meet");
+    greet();
+    console.log("I am Kush");
+}
+//hello meet 
+//i am kush 
+//i am happy to woek in the amazon 
+//I am done 
+meet(greet)
+meet(morning)
