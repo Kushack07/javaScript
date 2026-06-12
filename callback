@@ -1,0 +1,15 @@
+function zomato(){
+    console.log("resturant is making money via every order that has been made by the customer");  
+}
+
+function payment(amount){
+  console.log(amount ,"payment is happening")
+  console.log("payment  is done")
+  zomato();
+}
+
+
+
+
+
+
