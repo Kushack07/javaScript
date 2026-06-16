@@ -1,0 +1,16 @@
+<h1 id = "first" style ="background-color =:pink; color:black;
+font-size :50px;">hello Students</h1>  
+ /\   /\
+  |   |
+  object
+
+const element ={
+  tagName = "h1",
+  id :"first",
+  text-context
+  
+}
+
+console.log("hello world")
+console.log("hello world , i am in new space i am wondering")
+//window.console.log("Hello")
